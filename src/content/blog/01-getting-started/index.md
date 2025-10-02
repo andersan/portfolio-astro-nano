@@ -10,12 +10,12 @@ Edit `src/consts.ts`
 
 Customize the base site
 
-```ts 
+```ts
 // src/consts.ts
 
 export const SITE: Site = {
-  NAME: "Astro Nano",
-  EMAIL: "markhorn.dev@gmail.com",
+  NAME: "Chris Anderson's Portfolio",
+  EMAIL: "c.anderson76@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
@@ -32,7 +32,7 @@ export const SITE: Site = {
 
 Customize your page metadata
 
-```ts 
+```ts
 // src/consts.ts
 
 export const HOME: Metadata = {
@@ -48,21 +48,17 @@ export const HOME: Metadata = {
 
 Customize your social media
 
-```ts 
+```ts
 // src/consts.ts
 
 export const SOCIALS: Socials = [
-  { 
-    NAME: "twitter-x",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
-  { 
+  {
     NAME: "github",
-    HREF: "https://github.com/markhorn-dev"
+    HREF: "https://github.com/andersan"
   },
-  { 
+  {
     NAME: "linkedin",
-    HREF: "https://www.linkedin.com/in/markhorn-dev",
+    HREF: "https://www.linkedin.com/in/chrisanderson1491/",
   }
 ];
 ```
