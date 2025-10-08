@@ -1,8 +1,8 @@
 ---
 company: "Detroit Partnership"
 role: "School Programs Director"
-dateStart: "2014/01/10"
-dateEnd: "2016/12/31"
+dateStart: "2014-01-10"
+dateEnd: "2016-12-31"
 ---
 
 - Managed teams of university volunteers supporting ten partner schools across Detroit.

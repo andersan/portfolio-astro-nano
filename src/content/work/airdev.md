@@ -1,8 +1,8 @@
 ---
 company: "Airdev"
 role: "Technical Lead"
-dateStart: "2017/08/10"
-dateEnd: "2022/07/31"
+dateStart: "2017-08-10"
+dateEnd: "2022-07-31"
 ---
 
 - Architected reusable templates, tools, and plugins that serve as the foundation for ~200 apps delivered each year.

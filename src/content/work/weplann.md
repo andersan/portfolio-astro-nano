@@ -1,8 +1,8 @@
 ---
 company: "WePlann"
 role: "Front End Development Intern"
-dateStart: "2017/03/01"
-dateEnd: "2017/06/30"
+dateStart: "2017-03-01"
+dateEnd: "2017-06-30"
 ---
 
 - Produced responsive HTML and CSS email newsletters delivered to audiences of 10,000+ subscribers per campaign.
